@@ -1,1 +1,2 @@
-### yay i have a readme now
+### profile readmes are cool
+### 💙 [naokoaf.github.io](https://naokoaf.github.io)
